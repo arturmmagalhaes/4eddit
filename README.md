@@ -45,5 +45,5 @@ Para instalar as dependências e rodar o sistema:
   $ npm run build
   $ surge ./build [url-desejada]
 ```
-
-Feito por: Artur Magalhães, Thiago Stephen e Victor Gutierrez.
+---
+<h4 align="center">Feito por: Artur Magalhães, Thiago Stephen e Victor Gutierrez.
