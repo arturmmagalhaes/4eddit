@@ -8,7 +8,7 @@ Projeto para a Labenu baseado no Reddit.
   <img src="./src/Global/4eddit-login.png" />
   <img src="./src/Global/4eddit-feed.png" />
   <img src="./src/Global/4eddit-post.png" />
-  
+---
 - ## 💻️ Tecnologias
   O projeto foi desenvolvido com ReactJS.
 
@@ -28,9 +28,14 @@ Projeto para a Labenu baseado no Reddit.
     - Services possui baseUrl para conectar com a API.
 ---
 - ## Como rodar o projeto
+
+  Para copiar o projeto:
 ```bash
   $ git clone https://github.com/arturmmagalhaes/4eddit.git
   $ cd 4eddit
+```
+  Para rodar o sistema:
+```bash
   $ npm install
   $ npm run start
 ```
