@@ -1,4 +1,4 @@
-# 4eddit
+<h1>4eddit
 Projeto para a Labenu baseado no Reddit.
 
 - # Link
@@ -39,3 +39,5 @@ Projeto para a Labenu baseado no Reddit.
   $ npm run build
   $ surge ./build [url-desejada]
 ```
+
+Feito por: Artur Magalhães, Thiago Stephen e Victor Gutierrez.
