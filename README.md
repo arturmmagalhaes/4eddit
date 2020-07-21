@@ -5,8 +5,8 @@ Projeto para a Labenu baseado no Reddit.
   http://reddit.arturmmagalhaes.surge.sh/
 
 - # Telas
-  <img src="./src/Global/4eddit-feed.png" />
   <img src="./src/Global/4eddit-login.png" />
+  <img src="./src/Global/4eddit-feed.png" />
   <img src="./src/Global/4eddit-post.png" />
   
 - # Tecnologias
