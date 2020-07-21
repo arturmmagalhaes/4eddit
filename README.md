@@ -2,11 +2,13 @@
 Projeto para a Labenu baseado no Reddit.
 
 - # Link
-http://reddit.arturmmagalhaes.surge.sh/
+  http://reddit.arturmmagalhaes.surge.sh/
 
 - # Telas
-
-
+  <img src="./src/Global/4eddit-feed.png" />
+  <img src="./src/Global/4eddit-login.png" />
+  <img src="./src/Global/4eddit-post.png" />
+  
 - # Tecnologias
   O projeto foi desenvolvido com ReactJS.
 
