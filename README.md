@@ -1,4 +1,4 @@
-<h1>4eddit
+<h1>4eddit</h1>
 Projeto para a Labenu baseado no Reddit.
 
 - # Link
