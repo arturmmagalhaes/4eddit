@@ -28,12 +28,14 @@ Projeto para a Labenu baseado no Reddit.
     - Services possui baseUrl para conectar com a API.
 
 - # Como rodar o projeto
+```bash
   $ git clone https://github.com/arturmmagalhaes/4eddit.git
   $ cd 4eddit
   $ npm install
   $ npm run start
-
+```
 - # Como deployar o projeto
+```bash
   $ npm run build
   $ surge ./build [url-desejada]
-  
+```
