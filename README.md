@@ -34,7 +34,7 @@ Projeto para a Labenu baseado no Reddit.
   $ git clone https://github.com/arturmmagalhaes/4eddit.git
   $ cd 4eddit
 ```
-  Para rodar o sistema:
+  Para instalar as dependências e rodar o sistema:
 ```bash
   $ npm install
   $ npm run start
