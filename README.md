@@ -1,4 +1,4 @@
-<h1 align="center">4eddit</h1>
+<h1 align="center">@4eddit</h1>
 Projeto para a Labenu baseado no Reddit.
 
   ## Link
