@@ -1,5 +1,5 @@
 <h1 align="center">@4eddit</h1>
-Projeto para a Labenu baseado no Reddit.
+Projeto de Front-end para a Labenu baseado no Reddit.
 
   ## Link
   http://reddit.arturmmagalhaes.surge.sh/
@@ -17,6 +17,7 @@ Projeto para a Labenu baseado no Reddit.
     - Axios
     - Styled-components
     - Material-ui
+    - React-share
     
 - ## Estrutura do projeto
 
